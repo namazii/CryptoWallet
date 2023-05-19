@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "90D65AB6-DB0B-4555-9904-C12AFEFCAFE4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EDE4D1D1-E81B-4F31-BD0F-2C84ACE303FB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoWalletTests/CoinViewModelTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "testConvert()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EDE4D1D1-E81B-4F31-BD0F-2C84ACE303FB - d63584f764f9bc7b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (CryptoWallet.CoinData) -&gt; () in CryptoWalletTests.CoinViewModelTests.testEx() -&gt; ()"
+                  moduleName = "CryptoWalletTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/namazi/Desktop/intensive/CryptoWallet/CryptoWalletTests/CoinViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "EDE4D1D1-E81B-4F31-BD0F-2C84ACE303FB - d63584f764f9bd86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (CryptoWallet.CoinData) -&gt; () in CryptoWalletTests.CoinViewModelTests.testEx() -&gt; ()"
+                  moduleName = "CryptoWalletTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/namazi/Desktop/intensive/CryptoWallet/CryptoWalletTests/CoinViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "EDE4D1D1-E81B-4F31-BD0F-2C84ACE303FB - d63584f764f9bde7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (CryptoWallet.CoinData) -&gt; () in CryptoWalletTests.CoinViewModelTests.testEx() -&gt; ()"
+                  moduleName = "CryptoWalletTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/namazi/Desktop/intensive/CryptoWallet/CryptoWalletTests/CoinViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "280">
+               </Location>
+               <Location
+                  uuid = "EDE4D1D1-E81B-4F31-BD0F-2C84ACE303FB - a984c79410472567"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (CryptoWallet.CoinData) -&gt; () in CryptoWalletTests.CoinViewModelTests.testConvert() -&gt; ()"
+                  moduleName = "CryptoWalletTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/namazi/Desktop/intensive/CryptoWallet/CryptoWalletTests/CoinViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
